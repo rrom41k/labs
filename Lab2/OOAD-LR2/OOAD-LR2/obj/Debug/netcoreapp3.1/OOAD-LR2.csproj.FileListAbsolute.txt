@@ -1,0 +1,13 @@
+C:\Users\romik\source\repos\OOAD-LR2\OOAD-LR2\bin\Debug\netcoreapp3.1\OOAD-LR2.exe
+C:\Users\romik\source\repos\OOAD-LR2\OOAD-LR2\bin\Debug\netcoreapp3.1\OOAD-LR2.deps.json
+C:\Users\romik\source\repos\OOAD-LR2\OOAD-LR2\bin\Debug\netcoreapp3.1\OOAD-LR2.runtimeconfig.json
+C:\Users\romik\source\repos\OOAD-LR2\OOAD-LR2\bin\Debug\netcoreapp3.1\OOAD-LR2.runtimeconfig.dev.json
+C:\Users\romik\source\repos\OOAD-LR2\OOAD-LR2\bin\Debug\netcoreapp3.1\OOAD-LR2.dll
+C:\Users\romik\source\repos\OOAD-LR2\OOAD-LR2\bin\Debug\netcoreapp3.1\OOAD-LR2.pdb
+C:\Users\romik\source\repos\OOAD-LR2\OOAD-LR2\obj\Debug\netcoreapp3.1\OOAD-LR2.csproj.AssemblyReference.cache
+C:\Users\romik\source\repos\OOAD-LR2\OOAD-LR2\obj\Debug\netcoreapp3.1\OOAD-LR2.AssemblyInfoInputs.cache
+C:\Users\romik\source\repos\OOAD-LR2\OOAD-LR2\obj\Debug\netcoreapp3.1\OOAD-LR2.AssemblyInfo.cs
+C:\Users\romik\source\repos\OOAD-LR2\OOAD-LR2\obj\Debug\netcoreapp3.1\OOAD-LR2.csproj.CoreCompileInputs.cache
+C:\Users\romik\source\repos\OOAD-LR2\OOAD-LR2\obj\Debug\netcoreapp3.1\OOAD-LR2.dll
+C:\Users\romik\source\repos\OOAD-LR2\OOAD-LR2\obj\Debug\netcoreapp3.1\OOAD-LR2.pdb
+C:\Users\romik\source\repos\OOAD-LR2\OOAD-LR2\obj\Debug\netcoreapp3.1\OOAD-LR2.genruntimeconfig.cache
