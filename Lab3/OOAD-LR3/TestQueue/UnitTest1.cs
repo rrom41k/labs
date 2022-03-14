@@ -36,6 +36,15 @@ namespace TestQueue
             Assert.AreEqual(expected, actual);
         }
         [Test]
+        public void TestRemoveItemError()
+        {
+            int[] a = { };
+            Queue<int> queue = new Queue<int>(a);
+            int expected = queue.RemoveItem();
+            int actual = default(int); 
+            Assert.AreEqual(expected, actual);
+        }
+        [Test]
         public void TestAddAndRemove()
         {
             int[] a = { 4, 3, 2, 1, 0 };
