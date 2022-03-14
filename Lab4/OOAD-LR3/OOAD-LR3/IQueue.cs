@@ -9,7 +9,7 @@ namespace OOAD_LR3
         T[] queue { get { return queue; } set { queue = value; } } // массив с очередью
         public string ReturnQueue(); // метод для показа текущей очереди
         public void AddItem(T item); // метод добавления нового элемента в очередь 
-        public void RemoveItem(); // метод удаления элемента из очереди 
+        public T RemoveItem(); // метод удаления элемента из очереди 
 
     }
 }

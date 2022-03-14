@@ -52,17 +52,19 @@ namespace OOAD_LR3
             }
             catch { Console.WriteLine("Не удалось провести операцию по добавлению элемента в очередь"); }
         }
-        public void RemoveItem()
+        public T RemoveItem()
         {
             try
             {
+                T RemovItem = queue[queue.Length - 1];
                 T[] remove = new T[queue.Length - 1];
                 for (int i = 0; i < count; i++)
                     remove[i] = queue[i];
                 queue = remove;
                 count--;
+                return RemovItem;
             }
-            catch { Console.WriteLine("Не удалось провести операцию по удалению элемента из очереди"); }
+            catch { Console.WriteLine("Не удалось провести операцию по удалению элемента из очереди"); return default(T); }
         }
     }
 }
